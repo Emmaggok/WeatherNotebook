@@ -1,5 +1,5 @@
 # Weather Notebook (Jupyter)
-Weather Notebook is a project I did for the Algorithms and Programming chair of the Bachelor's Degree in Applied Mathematics. This project is all about Web Scrapping.
+Weather Notebook is a project I did for the Algorithms and Programming subject of the Bachelor's Degree in Applied Mathematics. This project is all about Web Scrapping.
 It takes the climatic information obtained from the page https://www.tutiempo.net/ analyzes the data and it is possible to obtain the predominant direction or directions of the wind in a certain period or the average of maximum temperatures during a certain period.
 
 ## Usage
